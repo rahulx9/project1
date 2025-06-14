@@ -2,6 +2,8 @@
   "name": "tutu",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rahulx9.github.io/project1",
+  "description": "A React project for displaying a list of items with a search feature.",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
